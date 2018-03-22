@@ -1,5 +1,5 @@
 """
-Put numbers into 2 differen FIFOs w/o blocking
+Put numbers into 2 different FIFOs w/o blocking
 """
 
 import os
